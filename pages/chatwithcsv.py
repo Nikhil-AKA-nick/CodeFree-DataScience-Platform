@@ -31,7 +31,7 @@ from langchain_openai import ChatOpenAI
 
 import os
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'your api key'
 
 
 # st.title("Chat With CSV")
