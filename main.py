@@ -1,3 +1,3 @@
 import streamlit as st 
 
-st.write("Welcome to the main page")
+st.write("Welcome to Code Free Data Science Platform")
