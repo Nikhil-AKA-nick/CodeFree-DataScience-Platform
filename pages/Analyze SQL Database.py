@@ -14,11 +14,11 @@ import dotenv
 import os
 
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = ' your api key'
 
 # load_dotenv()
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBMzHCmzXoGoO0kUFiUfYZxIAgb7JKifok"
+os.environ["GOOGLE_API_KEY"] = "you api key"
 
 
 st.set_page_config("SQL Agent", page_icon = "📑")
